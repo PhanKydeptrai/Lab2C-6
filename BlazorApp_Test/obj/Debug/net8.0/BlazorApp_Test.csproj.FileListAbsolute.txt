@@ -27,3 +27,4 @@ D:\BlazorApp_Test\BlazorApp_Test\obj\Debug\net8.0\refint\BlazorApp_Test.dll
 D:\BlazorApp_Test\BlazorApp_Test\obj\Debug\net8.0\BlazorApp_Test.pdb
 D:\BlazorApp_Test\BlazorApp_Test\obj\Debug\net8.0\BlazorApp_Test.genruntimeconfig.cache
 D:\BlazorApp_Test\BlazorApp_Test\obj\Debug\net8.0\ref\BlazorApp_Test.dll
+D:\BlazorApp_Test\BlazorApp_Test\obj\Debug\net8.0\BlazorApp_Test.sourcelink.json

@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Components\Greeting.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
     <UpToDateCheckInput Remove="Components\Greeting.razor" />
   </ItemGroup>
 

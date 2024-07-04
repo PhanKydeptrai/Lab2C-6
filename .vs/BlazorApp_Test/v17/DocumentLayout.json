@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\pages\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|d:\\blazorapp_test\\blazorapp_test\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A13C10-8CB6-4703-9FEF-25AE03B3E0B9}|BlazorApp_Test\\BlazorApp_Test.csproj|solutionrelative:blazorapp_test\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +42,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp_Test\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:51:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorApp_Test\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:36:40.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp_Test\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:04:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp_Test\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:04:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorApp_Test\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB8AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-04T08:01:17.669Z",
               "EditorCaption": ""
@@ -49,22 +113,9 @@
               "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\Pages\\Greeting.razor",
               "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\Pages\\Greeting.razor",
               "RelativeToolTip": "BlazorApp_Test\\Components\\Pages\\Greeting.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA0wAkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-04T07:59:07.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\App.razor",
-              "RelativeDocumentMoniker": "BlazorApp_Test\\Components\\App.razor",
-              "ToolTip": "D:\\BlazorApp_Test\\BlazorApp_Test\\Components\\App.razor",
-              "RelativeToolTip": "BlazorApp_Test\\Components\\App.razor",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA2wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:53:38.093Z",
               "EditorCaption": ""
             }
           ]
