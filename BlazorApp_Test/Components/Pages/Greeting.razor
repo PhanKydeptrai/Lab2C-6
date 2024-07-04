@@ -1,0 +1,18 @@
+﻿@page "/greeting"
+<h3>Greeting</h3>
+
+@code {
+    private string tittle = "Phan Thế Kỷ";
+    private string name;
+    private string address;
+    private string greeting;
+
+    private void welcome()
+    {
+        if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(address))
+        {
+            greeting = $"wellcome {name} from {address} go to blazor app hehe";
+        }
+
+    }
+}
